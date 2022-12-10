@@ -2,9 +2,7 @@
 
 int main() {
     std::cout << "Hello World!\n";
-
-    for (int i = 0; i < 5; ++i) {
-        std::cout << i << ' ';
-    }
+    int value;
+    std::cin >> value;
     return 0;
 }
