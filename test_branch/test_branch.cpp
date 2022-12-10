@@ -9,9 +9,6 @@ int main() {
     int ass;
     std::cin >> ass;
 
-    /// <summary>
-    /// //
-    /// </summary>
-    /// <returns></returns>
+    // jkjkjkjkjkjk
     return 0;
 }
