@@ -9,10 +9,6 @@ int main() {
     int ass;
     std::cin >> ass;
 
-    
-
-
-
-    // kkkkkkkkkkkkkkkkkkk
+    // added header
     return 0;
 }
